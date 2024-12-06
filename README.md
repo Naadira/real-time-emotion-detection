@@ -9,22 +9,22 @@ The primary objective is to demonstrate the feasibility and effectiveness of DNN
 ## Features
 ●	Incorporates advanced feature extraction techniques for better emotional insight.  
 ●	Supports a wide range of applications, including healthcare, education, and customer service.  
-●	Easily integrates with existing systems for seamless implementation.
-●	Facilitates continuous learning and improvement through retraining on new datasets.
-●	Enhances user engagement by accurately interpreting and responding to emotions.
+●	Easily integrates with existing systems for seamless implementation.  
+●	Facilitates continuous learning and improvement through retraining on new datasets.  
+●	Enhances user engagement by accurately interpreting and responding to emotions.  
 
 ## Requirements
-●	Computer or server with sufficient processing power to train and deploy deep learning models.
-●	GPU (Graphics Processing Unit) support for accelerated training of deep learning models.
-●	Adequate RAM (Random Access Memory) to handle large datasets and model computations efficiently.
-●	Sufficient storage space to store datasets, trained models, and other project-related files.
-●	Operating System : Windows 11
-●	IDE : Visual Studio Code , Python 3.10
-●	StreamLit
-●	Tensorflow
-●	Keras
-●	OpenCV
-●	Numpy
+●	Computer or server with sufficient processing power to train and deploy deep learning models.  
+●	GPU (Graphics Processing Unit) support for accelerated training of deep learning models.  
+●	Adequate RAM (Random Access Memory) to handle large datasets and model computations efficiently.  
+●	Sufficient storage space to store datasets, trained models, and other project-related files.  
+●	Operating System : Windows 11  
+●	IDE : Visual Studio Code , Python 3.10  
+●	StreamLit  
+●	Tensorflow  
+●	Keras  
+●	OpenCV  
+●	Numpy  
 
 ## System Architecture
 ![image](https://github.com/user-attachments/assets/28287090-218f-4c99-8397-d2d0771d0a23)
@@ -41,8 +41,8 @@ Real-time Emotion Detection using Deep Neural Networks (DNNs) has the potential 
 This project demonstrates the feasibility of using DNNs for real-time emotion detection and opens up possibilities for applications in healthcare, education, human-computer interaction, and more. Further research and development in this area could lead to even more advanced and accurate emotion detection systems with broader applications.
 
 ## References
-[1] Hand gesture recognition for real-time emotion detection by Zhang et al. (2020)
-[2] Multimodal emotion recognition using deep learning and fusion techniques: A survey by Roy et al. (2021).
-[3] Real-time affective computing on the edge: A resource-efficient convolutional neural network approach by Li et al. (2020)
+[1] Hand gesture recognition for real-time emotion detection by Zhang et al. (2020)  
+[2] Multimodal emotion recognition using deep learning and fusion techniques: A survey by Roy et al. (2021).  
+[3] Real-time affective computing on the edge: A resource-efficient convolutional neural network approach by Li et al. (2020).    
 
 
