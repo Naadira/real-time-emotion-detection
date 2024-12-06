@@ -7,8 +7,8 @@ The project focuses on developing a real-time emotion detection system using Dee
 The primary objective is to demonstrate the feasibility and effectiveness of DNNs in emotion detection, showcasing their ability to process complex facial data accurately and efficiently. By enabling real-time analysis, the system aims to bridge the gap between traditional methods and modern, automated approaches.
 
 ## Features
-●	Incorporates advanced feature extraction techniques for better emotional insight.
-●	Supports a wide range of applications, including healthcare, education, and customer service.
+●	Incorporates advanced feature extraction techniques for better emotional insight.  
+●	Supports a wide range of applications, including healthcare, education, and customer service.  
 ●	Easily integrates with existing systems for seamless implementation.
 ●	Facilitates continuous learning and improvement through retraining on new datasets.
 ●	Enhances user engagement by accurately interpreting and responding to emotions.
